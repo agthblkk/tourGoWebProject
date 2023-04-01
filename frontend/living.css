@@ -22,7 +22,7 @@ html, body{
     text-decoration: none;
     color: black;
 }
-.upelement:hove{
+.upelement:hover{
     color: gray;
 }
 #menu{
