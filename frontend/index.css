@@ -20,6 +20,10 @@ html, body{
 }
 .upelement{
     text-decoration: none;
+    color: black;
+}
+.upelement:hove{
+    color: gray;
 }
 #menu{
     display: inline-flex;
