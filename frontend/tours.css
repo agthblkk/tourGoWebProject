@@ -128,3 +128,10 @@ footer{
     margin-bottom: 1%;
     margin-top: 1%;
 }
+a{
+  text-decoration: none;
+}
+.buttonChoose:hover{
+  background-color: #9F9F9F;
+  transition: 1s;
+}
